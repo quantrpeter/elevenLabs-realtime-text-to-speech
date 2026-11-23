@@ -1,1 +1,4 @@
 websockets>=14
+requests
+opencc-python-reimplemented
+sounddevice
